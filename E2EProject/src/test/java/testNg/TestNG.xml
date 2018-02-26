@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Build123">
+
+	<test name="MyResults">
+		<classes>
+			<class name="testNg.CollegeWeekLive"></class>
+			<class name="testNg.FaceBook_Login"></class>
+			<class name="testNg.firstprogram"></class>
+		</classes>
+	</test>
+</suite>
+
